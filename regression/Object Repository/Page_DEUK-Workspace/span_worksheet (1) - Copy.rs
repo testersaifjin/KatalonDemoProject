@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[contains(text(),'worksheet (1)')]</value>
+         <value>/html[1]/body[1]/wkspace-root[1]/wkspace-content-container[1]/wkspace-asset-player[1]/div[1]/div[1]/aside[1]/wkspace-next[1]/section[1]/mat-tab-group[1]/mat-tab-header[1]/div[2]/div[1]/div[1]/div[2]/div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

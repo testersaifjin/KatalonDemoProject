@@ -13,7 +13,7 @@
    <testCaseLink>
       <guid>48a1ad8c-0f00-4ccd-a930-cdc47e84d58c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/CurriculumSearch</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -25,19 +25,19 @@
    <testCaseLink>
       <guid>6fc523f6-2693-43ec-8c34-08c16e69d03d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/FeatureFlagCondition</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>a3a96653-664a-4935-b505-5bc5efe92297</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/IncorrectSearch</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>ef81b5d8-ad07-465c-86fe-b5f4faaae9bf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/StemBreadcrumb</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -49,7 +49,7 @@
    <testCaseLink>
       <guid>87102ab5-b5bb-443b-8d33-04e126f67af4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/TokenIDLogin</testCaseId>
    </testCaseLink>
    <testCaseLink>

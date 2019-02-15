@@ -43,10 +43,6 @@ WebUI.click(findTestObject('Object Repository/Page_DEUK-Workspace/a_English'))
 
 WebUI.delay(2)
 
-WebUI.verifyElementPresent(findTestObject('Page_DEUK-Workspace/h3_KS1'), 0)
-
-WebUI.delay(2)
-
 WebUI.click(findTestObject('Page_DEUK-Workspace/span_Explore our resources (3)'))
 
 WebUI.click(findTestObject('Page_DEUK-Workspace/li_Espresso'))
@@ -145,7 +141,7 @@ WebUI.click(findTestObject('Object Repository/Page_DEUK-Workspace/p_frontscreen.
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Page_DEUK-Workspace/span_Worksheets'))
+WebUI.click(findTestObject('Page_DEUK-Workspace/span_worksheet (1) - Copy'))
 
 WebUI.delay(2)
 
